@@ -10,6 +10,9 @@
 - Added "Planned features" in README.md
 - Improved README.md formatting for good software development practices (manual edits; ChatGPT only assisted with grammar and structure suggestions, not content generation)
 - Improved index.html formatting for good software development practices (manual edits; ChatGPT only assisted with grammar and structure suggestions, not content generation)
+- Added navigation bar
+- Added information and images
+- Created timeline.html
 
 ## v0.0.1 2026-05-24
 - Created basic index.html
