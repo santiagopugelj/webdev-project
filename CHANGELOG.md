@@ -1,3 +1,7 @@
+## v0.0.3 2026-05-26
+- Added alt attributes to img elements
+- Set the lang attribute of the html element to "en"
+
 ## v0.0.2 2026-05-25
 - Defined the topic of the page: "internet"
 - Created CHANGELOG.md
