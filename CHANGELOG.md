@@ -1,3 +1,11 @@
+## v0.0.4 2026-05-27
+- Added meta tags for SEO
+- Improved structure of code
+- Added viewport meta tag
+- Created videos folder
+- Added first video
+- Added figcaptions to images
+
 ## v0.0.3 2026-05-26
 - Added alt attributes to img elements
 - Set the lang attribute of the html element to "en"

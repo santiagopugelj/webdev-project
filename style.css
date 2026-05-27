@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-h1, p, h2, a {
+h1, p, h2, a, figcaption {
     color: rgb(152, 235, 29);
 }
 
@@ -18,4 +18,9 @@ h1, nav {
 
 nav {
     background-color: rgb(4, 4, 39)
+}
+
+video {
+    width: 600px;
+    border-radius: 10px;
 }
