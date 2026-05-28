@@ -1,3 +1,6 @@
+## v0.0.5 2026-05-28
+- Added poster attribute to video element
+
 ## v0.0.4 2026-05-27
 - Added meta tags for SEO
 - Improved structure of code
