@@ -1,8 +1,9 @@
 ## v0.0.6 2026-05-29
-- Solve formatting error
-- Added figcaption to video
-- Edit format of image of jpg to png
-- The video name has been shortened
+- Fixed formatting errors
+- Added figcaption to the video
+- Converted image format from JPG to PNG
+- Shortened the video filename
+- Added Open Grapg (OG) meta tags
 
 ## v0.0.5 2026-05-28
 - Added poster attribute to video element
