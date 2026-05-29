@@ -1,3 +1,7 @@
+## v0.0.6 2026-05-29
+- Solve formatting error
+- Added figcaption to video
+
 ## v0.0.5 2026-05-28
 - Added poster attribute to video element
 
