@@ -8,5 +8,4 @@ This page talks about the history of the internet, the World Wide Web, browsers,
 - Add timeline of internet history (Here's where to tell the story of internet)
 - Add font type consistent with the defined visual style concept
 - Create links to the first web pages
-- Add footer
 - Add more semantic elements
