@@ -2,6 +2,7 @@
 - Added favicon
 - Added header
 - Added footer
+- Added timeline
 
 ## v0.0.6 2026-05-29
 - Fixed formatting errors
