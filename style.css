@@ -12,15 +12,24 @@ img {
     border-radius: 10px;
 }
 
-h1, nav {
+h1, nav, footer {
     text-align: center;
 }
 
-nav {
-    background-color: rgb(4, 4, 39)
+nav, footer {
+    background-color: rgb(6, 6, 66)
 }
 
 video {
     width: 600px;
     border-radius: 10px;
+}
+
+h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+header {
+    background-color: rgb(6, 6, 55)
 }

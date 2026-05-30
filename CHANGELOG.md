@@ -1,3 +1,8 @@
+## v0.0.7 2026-05-30
+- Added favicon
+- Added header
+- Added footer
+
 ## v0.0.6 2026-05-29
 - Fixed formatting errors
 - Added figcaption to the video
